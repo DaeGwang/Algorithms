@@ -10,6 +10,7 @@ Useful Algorithms for Problem Solving :)
 * Tree
 * Disjoint sets (Union-find)
 * Sparse Table
+* Longest Common Ancestor
 * Trie
 * Partial Sum
 * Fenwick Tree
@@ -52,7 +53,6 @@ Useful Algorithms for Problem Solving :)
 * Minimum Spanning Tree
 	* Kruskal
 	* Prim
-* Longest Common Ancestor
 * Maximum Flow
 	* Floyd Warshall's
 	* Edmonds Karp's
