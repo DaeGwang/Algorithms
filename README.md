@@ -43,7 +43,7 @@ Useful Algorithms for Problem Solving :)
 * BFS
 * Finding cut edges, vertices
 * Topological Sort
-* Eulerial tours
+* Euler Path & Tours
 * Shortest path
 	* Dijkstra
 	* Floyd-Warshall
