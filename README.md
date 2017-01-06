@@ -11,7 +11,6 @@ Useful Algorithms for Problem Solving :)
 * Disjoint sets (Union-find)
 * Sparse Table
 * Longest Common Ancestor
-* Trie
 * Partial Sum
 * Fenwick Tree
 * Segment Tree & Lazy propagation
