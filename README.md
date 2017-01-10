@@ -6,8 +6,7 @@ Useful Algorithms for Problem Solving :)
 * List
 * Stack
 * Queue
-* Heap
-* Tree
+* Heap(Binary Heap)
 * [Disjoint sets (Union-find)](1. Data Structure & Techniques/UnionFind.cpp)
 * Sparse Table
 * Longest Common Ancestor
@@ -22,8 +21,7 @@ Useful Algorithms for Problem Solving :)
 
 
 ## 2. Problem Solving Paradigms
-* Complete Search
-* Binary Search
+* [Binary Search](2. Problem Solving Paradigms/BinarySearch.cpp)
 * Sorting
 	* Bubble Sort
 	* Insertion Sort
@@ -42,9 +40,8 @@ Useful Algorithms for Problem Solving :)
 ## 3. Graph
 * DFS
 * BFS
-* Finding cut edges, vertices
 * Topological Sort
-* Euler Path & Tours
+* Finding cut edges, vertices
 * Shortest path
 	* Dijkstra
 	* Floyd-Warshall
