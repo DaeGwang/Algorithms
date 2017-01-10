@@ -13,8 +13,9 @@ Useful Algorithms for Problem Solving :)
 * Longest Common Ancestor
 * Partial Sum
 * Fenwick Tree
-* Segment Tree & Lazy propagation
-* Sqrt Decomposition & Query Sorting
+* Segment Tree
+* Lazy propagation
+* Sqrt Decomposition
 * Heavy light decomposition
 * Bitmasking
 * Two pointer
@@ -72,8 +73,10 @@ Useful Algorithms for Problem Solving :)
 ## 5. String
 * Hashing
 * KMP
-* Trie & Aho-corasick
-* Suffix Array & Longest Common Prefix
+* Trie
+* Aho-corasick
+* Suffix Array
+* Longest Common Prefix
 
 ## 6. Geometry
 * CCW
