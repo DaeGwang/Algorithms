@@ -8,7 +8,7 @@ Useful Algorithms for Problem Solving :)
 * Queue
 * Heap
 * Tree
-* Disjoint sets (Union-find)
+* [Disjoint sets] (Union-find)(1. Data Structure & Techniques/UnionFind.cpp)
 * Sparse Table
 * Longest Common Ancestor
 * Partial Sum
