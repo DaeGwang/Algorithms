@@ -4,13 +4,11 @@ Useful Algorithms for Problem Solving :)
 
 ## 1. Data Structure & Techniques
 * [Array(Vector)](1. Data Structure & Techniques/Vector.cpp)
-* Stack
-* Queue
-* Heap(Binary Heap)
+* [Stack](1. Data Structure & Techniques/Stack.cpp)
+* [Queue](1. Data Structure & Techniques/Queue.cpp)
+* [Heap(Binary Heap)](1. Data Structure & Techniques/Heap.cpp)
 * [Disjoint sets (Union-find)](1. Data Structure & Techniques/UnionFind.cpp)
-* Sparse Table
 * Longest Common Ancestor
-* Partial Sum
 * Fenwick Tree
 * Segment Tree
 * Lazy propagation
@@ -32,10 +30,6 @@ Useful Algorithms for Problem Solving :)
 * Divide and Conquer
 * Greedy
 * Dynamic Programming
-	* 0-1 Knapsack Problem
-	* Longest Common Subsequence
-	* Longest Increase Sequence
-	* Convex Hull Trick
 
 ## 3. Graph
 * DFS
