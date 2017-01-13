@@ -3,7 +3,7 @@
 Useful Algorithms for Problem Solving :)
 
 ## 1. Data Structure & Techniques
-* List
+* [Array(Vector)](1. Data Structure & Techniques/Vector.cpp)
 * Stack
 * Queue
 * Heap(Binary Heap)
