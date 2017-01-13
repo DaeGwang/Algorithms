@@ -17,9 +17,11 @@ Useful Contents to become a Red Coder
 
 <a name="contents"/>
 ## Contests
-- [Google Code Jam](https://code.google.com/codejam/)
-- [Facebook Hacker Cup](https://www.facebook.com/hackercup/)
-- [Topcoder Open](https://tco17.topcoder.com/algorithm/)
+- [Google Code Jam](https://code.google.com/codejam/)  
+![](https://code.google.com/codejam/contest/static/logo_image4.gif)  
+- [Facebook Hacker Cup](https://www.facebook.com/hackercup/)  
+![](https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-1/c17.14.172.172/p200x200/576932_553283924703800_1011503059_n.jpg?oh=5fd6f9f6c4cad93ae13d3893ed3d5298&oe=58D7AEC7)  
+- [Topcoder Open](https://tco17.topcoder.com/algorithm/)  
 
 <a name="algorithms"/>
 ##  Algorithms
