@@ -1,6 +1,8 @@
 # Red Coder University
 Useful Contents to become a Red Coder
 
+<br />   
+
 ## Table of Contents
 - [Online judges](#online-judges)
 - [Contests](#contents)
