@@ -72,7 +72,7 @@ Useful Algorithms for Problem Solving.
 * Minimum Spanning Tree
 	* Kruskal
 	* Prim
-* Maximum Flow
+* Network Flow
 	* Floyd Warshall's
 	* Edmonds Karp's
 	* Dinic's
