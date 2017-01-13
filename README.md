@@ -8,12 +8,16 @@ Useful Contents to become a Red Coder
 - [Books](#books)
 - [Links](#links)
 
+<br />   
+
 <a name="online-judges"/>
 ## Online judges
 - [Codeforces](http://codeforces.com/)
 - [Topcoder](https://topcoder.com/)
 - [Baekjoon Online Judge](https://www.acmicpc.net/)
 - [Algospot](https://algospot.com/)
+
+<br />  
 
 <a name="contents"/>
 ## Contests
@@ -22,6 +26,8 @@ Useful Contents to become a Red Coder
 - [Facebook Hacker Cup](https://www.facebook.com/hackercup/)  
 ![](https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-1/c17.14.172.172/p200x200/576932_553283924703800_1011503059_n.jpg?oh=5fd6f9f6c4cad93ae13d3893ed3d5298&oe=58D7AEC7)  
 - [Topcoder Open](https://tco17.topcoder.com/algorithm/)  
+    
+<br />   
 
 <a name="algorithms"/>
 ##  Algorithms
@@ -101,10 +107,14 @@ Useful Algorithms for Problem Solving.
 * Sqrt Decomposition
 * Heavy light decomposition
 
+<br />   
+
 <a name="books"/>
 ## Books
 - [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 - [알고리즘 문제 해결 전략](http://book.algospot.com/)
+
+<br />   
 
 <a name="links"/>
 ## Links
