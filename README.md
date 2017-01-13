@@ -8,11 +8,11 @@ Useful Algorithms for Problem Solving :)
 * [Queue](1. Data Structure & Techniques/Queue.cpp)
 * [Heap(Binary Heap)](1. Data Structure & Techniques/Heap.cpp)
 * [Disjoint sets (Union-find)](1. Data Structure & Techniques/UnionFind.cpp)
-* Longest Common Ancestor
 * Fenwick Tree
 * Segment Tree
 * Lazy propagation
 * Sqrt Decomposition
+* Longest Common Ancestor
 * Heavy light decomposition
 * Bitmasking
 * Two pointer
