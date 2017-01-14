@@ -59,8 +59,6 @@ Useful Algorithms for Problem Solving.
 * Dynamic Programming
 
 ### 3. Graph
-* DFS
-* BFS
 * Topological Sort
 * Finding cut edges, vertices
 * Longest Common Ancestor
