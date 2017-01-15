@@ -1,5 +1,5 @@
-# Red Coder University
-Useful Contents to become a Red Coder
+# Problem Solving Technique
+Useful Contents for Problem Solving
 
 <br />   
 
