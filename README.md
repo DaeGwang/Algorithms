@@ -47,12 +47,10 @@ Useful Algorithms for Problem Solving.
 ### 2. Problem Solving Paradigms
 * [Binary Search](Algorithms/2. Problem Solving Paradigms/BinarySearch.cpp)
 * Sorting
-	* Bubble Sort
-	* Insertion Sort
-	* Quick Sort
-	* Merge Sort
-	* Counting Sort
-	* Bucket Sort
+	* [Insertion Sort](2. Problem Solving Paradigms/InsertionSort.cpp)
+	* [Quick Sort](2. Problem Solving Paradigms/QuickSort.cpp)
+	* [Merge Sort](2. Problem Solving Paradigms/MergeSort.cpp)
+	* [Counting Sort(Bucket Sort)](2. Problem Solving Paradigms/BucketSort.cpp)
 * Divide and Conquer
 * Greedy
 * Dynamic Programming
