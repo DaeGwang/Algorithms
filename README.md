@@ -41,16 +41,16 @@ Useful Algorithms for Problem Solving.
 * [Queue](Algorithms/1. Data Structure/Queue.cpp)
 * [Heap(Binary Heap)](Algorithms/1. Data Structure/Heap.cpp)
 * [Disjoint sets (Union-find)](Algorithms/1. Data Structure/UnionFind.cpp)
+* [Segment Tree](Algorithms/1. Data Structure/SegmentTree.cpp)
 * Fenwick Tree
-* Segment Tree
 
 ### 2. Problem Solving Paradigms
 * [Binary Search](Algorithms/2. Problem Solving Paradigms/BinarySearch.cpp)
 * Sorting
-	* [Insertion Sort](2. Problem Solving Paradigms/InsertionSort.cpp)
-	* [Quick Sort](2. Problem Solving Paradigms/QuickSort.cpp)
-	* [Merge Sort](2. Problem Solving Paradigms/MergeSort.cpp)
-	* [Counting Sort(Bucket Sort)](2. Problem Solving Paradigms/BucketSort.cpp)
+	* [Insertion Sort](Algorithms/2. Problem Solving Paradigms/InsertionSort.cpp)
+	* [Quick Sort](Algorithms/2. Problem Solving Paradigms/QuickSort.cpp)
+	* [Merge Sort](Algorithms/2. Problem Solving Paradigms/MergeSort.cpp)
+	* [Counting Sort(Bucket Sort)](Algorithms/2. Problem Solving Paradigms/BucketSort.cpp)
 * Divide and Conquer
 * Greedy
 * Dynamic Programming
