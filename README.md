@@ -24,7 +24,6 @@ Useful Contents for Problem Solving
 <a name="contents"/>
 ## Contests
 - [Google Code Jam](https://code.google.com/codejam/)  
-![](https://code.google.com/codejam/contest/static/logo_image4.gif)  
 - [Facebook Hacker Cup](https://www.facebook.com/hackercup/)  
 - [Topcoder Open](https://tco17.topcoder.com/algorithm/)  
     
@@ -63,7 +62,6 @@ Useful Algorithms for Problem Solving.
 	* Dijkstra
 	* Floyd-Warshall
 	* Bellman-Ford
-	* SPFA
 * Minimum Spanning Tree
 	* Kruskal
 	* Prim
@@ -81,7 +79,6 @@ Useful Algorithms for Problem Solving.
 * Greatest Common Divisor & Least Common Multiple
 * Extended Euclid
 * Phi Function
-* Modulo Arithmetic
 * Binomial Coefficients
 
 ### 5. String
