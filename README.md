@@ -78,11 +78,11 @@ Useful Algorithms for Problem Solving.
 
 ### 4. Mathematics
 * Prime Numbers, Sieve
+* Binomial Coefficients
 * Greatest Common Divisor & Least Common Multiple
 * Extended Euclid
 * Phi Function
 * Modulo Arithmetic
-* Binomial Coefficients
 
 ### 5. String
 * Hashing
@@ -93,9 +93,10 @@ Useful Algorithms for Problem Solving.
 * Longest Common Prefix
 
 ### 6. Geometry
-* CCW
+* [Vector2](Algorithms/6. Geometry/vector2.cpp)
+* [CCW](Algorithms/6. Geometry/ccw.cpp)
+* [Convex Hull](Algorithms/6. Geometry/convexhull.cpp)
 * Point
-* Convex Hull
 
 ### 7. Other Techinques
 * Bitmasking
