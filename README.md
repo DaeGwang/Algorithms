@@ -80,11 +80,7 @@ Useful Algorithms for Problem Solving.
 * Greatest Common Divisor & Least Common Multiple
 * Extended Euclid
 * Phi Function
-<<<<<<< HEAD
 * Modulo Arithmetic
-=======
-* Binomial Coefficients
->>>>>>> origin/master
 
 ### 5. String
 * Hashing
