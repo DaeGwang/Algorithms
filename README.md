@@ -41,7 +41,7 @@ Useful Algorithms for Problem Solving.
 * [Heap(Binary Heap)](Algorithms/1. Data Structure/Heap.cpp)
 * [Disjoint sets (Union-find)](Algorithms/1. Data Structure/UnionFind.cpp)
 * [Segment Tree](Algorithms/1. Data Structure/SegmentTree.cpp)
-* Fenwick Tree
+* [Fenwick Tree](Algorithms/1. Data Structure/FenwickTree.cpp)
 
 ### 2. Problem Solving Paradigms
 * [Binary Search](Algorithms/2. Problem Solving Paradigms/BinarySearch.cpp)
@@ -55,7 +55,7 @@ Useful Algorithms for Problem Solving.
 * Dynamic Programming
 
 ### 3. Graph
-* Topological Sort
+* [Topological Sort](Algorithms/3. Graph/topologicalSort.cpp)
 * Finding cut edges, vertices
 * Longest Common Ancestor
 * Shortest path
@@ -83,9 +83,9 @@ Useful Algorithms for Problem Solving.
 * Modulo Arithmetic
 
 ### 5. String
+* [Trie](Algorithms/5. String/trie.cpp)
 * Hashing
 * KMP
-* Trie
 * Aho-corasick
 * Suffix Array
 * Longest Common Prefix
