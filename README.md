@@ -75,9 +75,9 @@ Useful Algorithms for Problem Solving.
 	* Koasaraju
 
 ### 4. Mathematics
-* Prime Numbers, Sieve
-* Binomial Coefficients
-* Greatest Common Divisor & Least Common Multiple
+* [Prime Numbers, Sieve](Algorithms/4. Mathematics/sieve.cpp)
+* [Binomial Coefficients](Algorithms/4. Mathematics/bino.cpp)
+* [Greatest Common Divisor](Algorithms/4. Mathematics/gcd.cpp)
 * Extended Euclid
 * Phi Function
 * Modulo Arithmetic
