@@ -45,7 +45,7 @@ Useful Algorithms for Problem Solving.
 
 ### 2. Problem Solving Paradigms
 * [Binary Search](Algorithms/2. Problem Solving Paradigms/BinarySearch.cpp)
-* Sorting
+* __Sorting__
 	* [Insertion Sort](Algorithms/2. Problem Solving Paradigms/InsertionSort.cpp)
 	* [Quick Sort](Algorithms/2. Problem Solving Paradigms/QuickSort.cpp)
 	* [Merge Sort](Algorithms/2. Problem Solving Paradigms/MergeSort.cpp)
@@ -80,7 +80,6 @@ Useful Algorithms for Problem Solving.
 * [Greatest Common Divisor](Algorithms/4. Mathematics/gcd.cpp)
 * Extended Euclid
 * Phi Function
-* Modulo Arithmetic
 
 ### 5. String
 * [Trie](Algorithms/5. String/trie.cpp)
