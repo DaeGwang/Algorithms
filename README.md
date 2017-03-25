@@ -35,27 +35,27 @@ Useful Algorithms for Problem Solving.
 
 
 ### 1. Data Structure
-* [Array(Vector)](Algorithms/1. Data Structure/Vector.cpp)
-* [Stack](Algorithms/1. Data Structure/Stack.cpp)
-* [Queue](Algorithms/1. Data Structure/Queue.cpp)
-* [Heap(Binary Heap)](Algorithms/1. Data Structure/Heap.cpp)
-* [Disjoint sets (Union-find)](Algorithms/1. Data Structure/UnionFind.cpp)
-* [Segment Tree](Algorithms/1. Data Structure/SegmentTree.cpp)
-* [Fenwick Tree](Algorithms/1. Data Structure/FenwickTree.cpp)
+* [Array(Vector)](Algorithms/datastructure/Vector.cpp)
+* [Stack](Algorithms/datastructure/Stack.cpp)
+* [Queue](Algorithms/datastructure/Queue.cpp)
+* [Heap(Binary Heap)](Algorithms/datastructure/Heap.cpp)
+* [Disjoint sets (Union-find)](Algorithms/datastructure/UnionFind.cpp)
+* [Segment Tree](Algorithms/datastructure/SegmentTree.cpp)
+* [Fenwick Tree](Algorithms/datastructure/FenwickTree.cpp)
 
 ### 2. Problem Solving Paradigms
-* [Binary Search](Algorithms/2. Problem Solving Paradigms/BinarySearch.cpp)
+* [Binary Search](Algorithms/paradigm/BinarySearch.cpp)
 * __Sorting__
-	* [Insertion Sort](Algorithms/2. Problem Solving Paradigms/InsertionSort.cpp)
-	* [Quick Sort](Algorithms/2. Problem Solving Paradigms/QuickSort.cpp)
-	* [Merge Sort](Algorithms/2. Problem Solving Paradigms/MergeSort.cpp)
-	* [Counting Sort(Bucket Sort)](Algorithms/2. Problem Solving Paradigms/BucketSort.cpp)
+	* [Insertion Sort](Algorithms/paradigm/InsertionSort.cpp)
+	* [Quick Sort](Algorithms/paradigm/QuickSort.cpp)
+	* [Merge Sort](Algorithms/paradigm/MergeSort.cpp)
+	* [Counting Sort(Bucket Sort)](Algorithms/paradigm/BucketSort.cpp)
 * Divide and Conquer
 * Greedy
 * Dynamic Programming
 
 ### 3. Graph
-* [Topological Sort](Algorithms/3. Graph/topologicalSort.cpp)
+* [Topological Sort](Algorithms/graph/topologicalSort.cpp)
 * Finding cut edges, vertices
 * Longest Common Ancestor
 * Shortest path
@@ -75,14 +75,14 @@ Useful Algorithms for Problem Solving.
 	* Koasaraju
 
 ### 4. Mathematics
-* [Prime Numbers, Sieve](Algorithms/4. Mathematics/sieve.cpp)
-* [Binomial Coefficients](Algorithms/4. Mathematics/bino.cpp)
-* [Greatest Common Divisor](Algorithms/4. Mathematics/gcd.cpp)
+* [Prime Numbers, Sieve](Algorithms/math/sieve.cpp)
+* [Binomial Coefficients](Algorithms/math/bino.cpp)
+* [Greatest Common Divisor](Algorithms/math/gcd.cpp)
 * Extended Euclid
 * Phi Function
 
 ### 5. String
-* [Trie](Algorithms/5. String/trie.cpp)
+* [Trie](Algorithms/string/trie.cpp)
 * Hashing
 * KMP
 * Aho-corasick
@@ -90,9 +90,9 @@ Useful Algorithms for Problem Solving.
 * Longest Common Prefix
 
 ### 6. Geometry
-* [Vector2](Algorithms/6. Geometry/vector2.cpp)
-* [CCW](Algorithms/6. Geometry/ccw.cpp)
-* [Convex Hull](Algorithms/6. Geometry/convexhull.cpp)
+* [Vector2](Algorithms/geometry/vector2.cpp)
+* [CCW](Algorithms/geometry/ccw.cpp)
+* [Convex Hull](Algorithms/geometry/convexhull.cpp)
 * Point
 
 ### 7. Other Techinques
