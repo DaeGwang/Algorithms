@@ -1,8 +1,6 @@
 # Problem Solving Concept
 Useful Contents for Problem Solving
 
-<br />   
-
 ### Data Structures
 * [Array(Vector)](Algorithms/datastructure/Vector.cpp)
 * [Stack](Algorithms/datastructure/Stack.cpp)
