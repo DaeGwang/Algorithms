@@ -1,43 +1,9 @@
-# Problem Solving Technique
+# Problem Solving Concept
 Useful Contents for Problem Solving
 
 <br />   
 
-## Table of Contents
-- [Online judges](#online-judges)
-- [Contests](#contents)
-- [Algorithms](#algorithms)
-- [Books](#books)
-- [Links](#links)
-
-<br />   
-
-<a name="online-judges"/>
-
-## Online judges
-- [Codeforces](http://codeforces.com/)
-- [Topcoder](https://topcoder.com/)
-- [Baekjoon Online Judge](https://www.acmicpc.net/)
-- [Algospot](https://algospot.com/)
-
-<br />  
-
-<a name="contents"/>
-
-## Contests
-- [Google Code Jam](https://code.google.com/codejam/)  
-- [Facebook Hacker Cup](https://www.facebook.com/hackercup/)  
-- [Topcoder Open](https://tco17.topcoder.com/algorithm/)  
-    
-<br />   
-
-<a name="algorithms"/>
-
-##  Algorithms
-Useful Algorithms for Problem Solving.
-
-
-### 1. Data Structure
+### Data Structures
 * [Array(Vector)](Algorithms/datastructure/Vector.cpp)
 * [Stack](Algorithms/datastructure/Stack.cpp)
 * [Queue](Algorithms/datastructure/Queue.cpp)
@@ -46,18 +12,20 @@ Useful Algorithms for Problem Solving.
 * [Segment Tree](Algorithms/datastructure/SegmentTree.cpp)
 * [Fenwick Tree](Algorithms/datastructure/FenwickTree.cpp)
 
-### 2. Problem Solving Paradigms
-* [Binary Search](Algorithms/paradigm/BinarySearch.cpp)
+### Sorting & Searching
 * __Sorting__
 	* [Insertion Sort](Algorithms/paradigm/InsertionSort.cpp)
 	* [Quick Sort](Algorithms/paradigm/QuickSort.cpp)
 	* [Merge Sort](Algorithms/paradigm/MergeSort.cpp)
 	* [Counting Sort(Bucket Sort)](Algorithms/paradigm/BucketSort.cpp)
-* Divide and Conquer
-* Greedy
-* Dynamic Programming
+* __Searching__
+  * [Binary Search](Algorithms/paradigm/BinarySearch.cpp)
+  * Divide and Conquer
+  * Two pointer
+  * Greedy
+  * Dynamic Programming
 
-### 3. Graph
+### Graph & Tree
 * [Topological Sort](Algorithms/graph/topologicalSort.cpp)
 * Finding cut edges, vertices
 * Longest Common Ancestor
@@ -77,14 +45,8 @@ Useful Algorithms for Problem Solving.
 	* Tarjan
 	* Koasaraju
 
-### 4. Mathematics
-* [Prime Numbers, Sieve](Algorithms/math/sieve.cpp)
-* [Binomial Coefficients](Algorithms/math/bino.cpp)
-* [Greatest Common Divisor](Algorithms/math/gcd.cpp)
-* Extended Euclid
-* Phi Function
 
-### 5. String
+### String
 * [Trie](Algorithms/string/trie.cpp)
 * Hashing
 * KMP
@@ -92,38 +54,23 @@ Useful Algorithms for Problem Solving.
 * Suffix Array
 * Longest Common Prefix
 
-### 6. Geometry
-* [Vector2](Algorithms/geometry/vector2.cpp)
-* [CCW](Algorithms/geometry/ccw.cpp)
-* [Convex Hull](Algorithms/geometry/convexhull.cpp)
-* Point
 
-### 7. Other Techinques
+### Other Techinques
 * Bitmasking
-* Two pointer
+* Mathematics
+  * [Prime Numbers, Sieve](Algorithms/math/sieve.cpp)
+  * [Binomial Coefficients](Algorithms/math/bino.cpp)
+  * [Greatest Common Divisor](Algorithms/math/gcd.cpp)
+  * Extended Euclid
+  * Phi Function
+* Computational Geometry
+  * [Vector2](Algorithms/geometry/vector2.cpp)
+  * [CCW](Algorithms/geometry/ccw.cpp)
+  * [Convex Hull](Algorithms/geometry/convexhull.cpp)
+  * Point
 * Lazy propagation
 * Sqrt Decomposition
 * Heavy light decomposition
-
-<br />   
-
-<a name="books"/>
-
-## Books
-- [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
-- [알고리즘 문제 해결 전략](http://book.algospot.com/)
-
-<br />   
-
-<a name="links"/>
-
-## Links
-- [ACM-ICPC](https://icpcarchive.ecs.baylor.edu/)
-- [ACM-ICPC Korea](http://icpckorea.org/)
-- [IOI](http://www.ioinformatics.org/index.shtml)
-- [Stanford-ICPC](http://web.stanford.edu/class/cs97si/)
-- [Cornell-ICPC](http://www.cs.cornell.edu/~wdtseng/icpc/)
-
 
 
 
