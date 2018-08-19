@@ -1,5 +1,5 @@
-# Problem Solving Concept
-Useful Contents for Problem Solving
+# Algorithms
+Data Structures and Algorithms for Problem Solving
 
 ### Data Structures
 * [Array(Vector)](Algorithms/datastructure/Vector.cpp)
